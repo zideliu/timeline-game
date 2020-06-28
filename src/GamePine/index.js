@@ -10,8 +10,8 @@ function GamePine (props) {
   const [initSetting] = useState({
 
     backwoodsColor: '0x061639',
-    width: 1286,
-    height: 640
+    width: 780,
+    height: 390
 
   })
   const [xiaoxin] = useState({
