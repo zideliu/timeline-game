@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timeline-game/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/timeline-game/static/js/main.17e58cbb.chunk.js",
+    "main.js.map": "/timeline-game/static/js/main.17e58cbb.chunk.js.map",
+    "runtime-main.js": "/timeline-game/static/js/runtime-main.8339917e.js",
+    "runtime-main.js.map": "/timeline-game/static/js/runtime-main.8339917e.js.map",
+    "static/js/2.579be780.chunk.js": "/timeline-game/static/js/2.579be780.chunk.js",
+    "static/js/2.579be780.chunk.js.map": "/timeline-game/static/js/2.579be780.chunk.js.map",
+    "index.html": "/timeline-game/index.html",
+    "precache-manifest.85e3748d0c243525a6b5f9093c7bd6ea.js": "/timeline-game/precache-manifest.85e3748d0c243525a6b5f9093c7bd6ea.js",
+    "service-worker.js": "/timeline-game/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/timeline-game/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.579be780.chunk.js.LICENSE.txt": "/timeline-game/static/js/2.579be780.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8339917e.js",
+    "static/js/2.579be780.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.17e58cbb.chunk.js"
+  ]
+}
