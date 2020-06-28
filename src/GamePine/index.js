@@ -222,7 +222,7 @@ function GamePine (props) {
     console.log('props', props)
     // 将canvas和容器尺寸匹配
     document.querySelector(
-      '#gamePine canvas').style = `zoom:${780 /
+      '#gamePine canvas').style = `zoom:${props.width /
     initSetting.width}`
 
     const bump = new Bump(PIXI)// 碰撞对象
