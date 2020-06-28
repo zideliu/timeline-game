@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/timeline-game/precache-manifest.cdd840b021cb541673e776b96ba53f22.js"
+  "/timeline-game/precache-manifest.2cd5af1d86efdec499e6ca335bdea2b3.js"
 );
 
 self.addEventListener('message', (event) => {
